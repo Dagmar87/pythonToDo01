@@ -16,7 +16,7 @@ Esse projeto de estudo consiste na criação de uma Lista de Tarefa (ToDo List) 
 ## Instruções para rodar o projeto
 
 1. git clone https://github.com/Dagmar87/pythonToDo01.git
-2 cd pythonToDo01
+2. cd pythonToDo01
 3. virtualenv venv (Criar o ambiente de trabalho Python)
 4. venv\Scripts\activate (Ativar o ambiente)
 5. pip install fastapi uvicorn jinja2 python-multipart (Instalar as bibliotecas python do projeto)
